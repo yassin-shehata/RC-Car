@@ -13,7 +13,8 @@ An embedded systems RC car designed with custom PCB, onboard sensors, remote con
 ## Hardware  
 - **MCU:** AVR128DB28  
 - **Motor Driver:** L298N  
-- **Regulator:** 7805 + decoupling capacitors  
+- **Regulator:** 7805 + decoupling capacitors 
+
 - **Sensors:** Ultrasonic (HC-SR04), RF receiver  
 - **Remote Control:** 433 MHz RF transmitter/receiver pair  
 - **Power:** Battery input with onboard regulation  
@@ -32,7 +33,7 @@ An embedded systems RC car designed with custom PCB, onboard sensors, remote con
 ### PCB Layout 
 <img width="792" height="718" alt="Screenshot 2025-09-13 at 1 21 07 AM" src="https://github.com/user-attachments/assets/1fcf8f64-d8a8-4e93-9793-4e76c4a16994" />
 <img width="747" height="710" alt="Screenshot 2025-09-13 at 1 21 43 AM" src="https://github.com/user-attachments/assets/c4f6abeb-f8e7-45a4-bf35-7b018767760e" />
-<img width="858" height="760" alt="Screenshot 2025-09-13 at 1 22 23 AM" src="https://github.com/user-attachments/assets/d21fb667-a837-4ff8-960a-bb1098a44b02" />
+<img width="692" height="652" alt="Screenshot 2025-09-13 at 1 35 06 AM" src="https://github.com/user-attachments/assets/a04d373f-e428-4392-b07b-5a8fdfee8752" />
 <img width="594" height="660" alt="Screenshot 2025-09-13 at 1 33 42 AM" src="https://github.com/user-attachments/assets/ddd3aec9-2515-421c-8c15-e7ac5643ee96" />
 
 
