@@ -33,10 +33,11 @@ An embedded systems RC car designed with custom PCB, onboard sensors, remote con
 <img width="792" height="718" alt="Screenshot 2025-09-13 at 1 21 07 AM" src="https://github.com/user-attachments/assets/1fcf8f64-d8a8-4e93-9793-4e76c4a16994" />
 <img width="747" height="710" alt="Screenshot 2025-09-13 at 1 21 43 AM" src="https://github.com/user-attachments/assets/c4f6abeb-f8e7-45a4-bf35-7b018767760e" />
 <img width="858" height="760" alt="Screenshot 2025-09-13 at 1 22 23 AM" src="https://github.com/user-attachments/assets/d21fb667-a837-4ff8-960a-bb1098a44b02" />
+<img width="594" height="660" alt="Screenshot 2025-09-13 at 1 33 42 AM" src="https://github.com/user-attachments/assets/ddd3aec9-2515-421c-8c15-e7ac5643ee96" />
+
 
  
 ### Car Assembly  
 <img width="340" height="565" alt="Screenshot 2025-09-13 at 1 32 42 AM" src="https://github.com/user-attachments/assets/bd8249be-3945-4d42-8e8e-0389766686b6" />
-<img width="594" height="660" alt="Screenshot 2025-09-13 at 1 33 42 AM" src="https://github.com/user-attachments/assets/ddd3aec9-2515-421c-8c15-e7ac5643ee96" />
 
 
